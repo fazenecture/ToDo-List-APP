@@ -27,7 +27,9 @@ class AddTaskScreen extends StatelessWidget {
               height: 10,
             ),
             MaterialButton(
-              onPressed: () {},
+              onPressed: () {
+
+              },
               child: Text(
                 'Add',
                 style: TextStyle(
